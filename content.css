@@ -1,0 +1,15 @@
+/* © 2026 08340dev. Tots els drets reservats. Vegeu el fitxer LICENSE. */
+/* Subrayados en editores "contenteditable" (Gmail, etc.).
+   Se pintan con la CSS Custom Highlight API: no se toca el HTML de la página. */
+
+::highlight(corrector-catala-spell) {
+  text-decoration: underline wavy #d93025;
+}
+
+::highlight(corrector-catala-grammar) {
+  text-decoration: underline wavy #e8870c;
+}
+
+::highlight(corrector-catala-style) {
+  text-decoration: underline wavy #1a73e8;
+}

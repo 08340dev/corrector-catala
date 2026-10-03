@@ -1,0 +1,59 @@
+Copyright © 2026 08340dev. Tots els drets reservats.
+
+AVÍS DE DRETS D'AUTOR
+---------------------
+
+Aquest repositori es publica únicament perquè se'n pugui consultar el codi.
+No es concedeix cap llicència d'ús, ni expressa ni implícita.
+
+Sense l'autorització prèvia i per escrit del titular, no es permet:
+
+  1. Copiar, reproduir o redistribuir aquest codi, totalment o parcialment.
+  2. Modificar-lo o crear-ne obres derivades.
+  3. Utilitzar-lo en altres productes o serveis, comercials o no.
+  4. Publicar-lo o distribuir-lo en botigues d'extensions o per qualsevol
+     altre canal.
+
+L'única excepció és la que imposen les Condicions del Servei de GitHub: els
+usuaris de GitHub poden veure aquest repositori i bifurcar-lo dins de la
+mateixa plataforma. Això no dona cap dret a utilitzar-ne el codi fora de
+GitHub ni per a cap de les finalitats anteriors.
+
+Què no cobreix aquest avís:
+
+  - LanguageTool i les seves regles de català pertanyen als seus autors i es
+    distribueixen amb llicència LGPL 2.1 o posterior. Aquesta extensió no
+    n'inclou el codi: només es connecta a un servidor LanguageTool.
+  - El nom i el logotip de L'Avet Roig són signes distintius del seu titular
+    i no es poden utilitzar sense permís.
+
+EL PROGRAMARI S'OFEREIX "TAL COM ÉS", SENSE GARANTIES DE CAP MENA. EL TITULAR
+NO ES FA RESPONSABLE DE CAP DANY DERIVAT DEL SEU ÚS.
+
+Per demanar permisos: 08340dev@gmail.com
+
+
+================================================================================
+
+Copyright © 2026 08340dev. All rights reserved.
+
+This repository is published for reference only. No licence is granted,
+whether express or implied.
+
+Without the prior written permission of the copyright holder, you may not
+copy, reproduce, redistribute, modify, create derivative works from, or use
+this code in any other product or service, commercial or otherwise, nor
+publish or distribute it through extension stores or any other channel.
+
+The only exception is the one required by the GitHub Terms of Service: GitHub
+users may view and fork this repository within GitHub. This grants no right to
+use the code outside GitHub or for any of the purposes above.
+
+This notice does not cover LanguageTool or its Catalan rules, which belong to
+their authors and are licensed under LGPL 2.1 or later (this extension does
+not include that code; it only connects to a LanguageTool server). The name
+and logo of L'Avet Roig may not be used without permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Permission requests: 08340dev@gmail.com
